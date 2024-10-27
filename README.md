@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Shoeb Ali!
 
-<!--
-**shoebali/shoebali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate web developer with experience in front-end and back-end development, specializing in:
 
-Here are some ideas to get you started:
+- 🌐 **Frontend:** React.js, HTML, CSS, Bootstrap
+- 🛠️ **Backend:** Node.js, Express.js
+- 🗄️ **Databases:** MySQL, MongoDB
+- ☁️ **Cloud & DevOps:** AWS
+- 🛠️ **State Management:** Redux, Context API
+- 🛠️ **Version Control:** Git, SVN
+- 📈 **Other:** JavaScript, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Projects
+- Building dynamic web applications with **React.js** and **Node.js**.
+- Exploring microservices architecture on **AWS**.
+
+### 📊 GitHub Stats
+![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebali&show_icons=true&theme=radical)
+
+### 📈 Skills
+- **Frontend:** React.js, Redux, Context API, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Tools:** SVN, Git, AWS, VS Code
+
+### 💼 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shoeb-ali-a68817173/)
