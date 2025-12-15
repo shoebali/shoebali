@@ -70,16 +70,11 @@ Results-driven **Full-Stack Developer** with hands-on experience designing, deve
 ## 🔬 Current Focus & Learning
 
 ```javascript
-// Strategic Technical Focus
-const CurrentFocus = {
+const currentFocus = {
   architecture: "Cloud-Native Microservices",
-  cloudPlatform: "AWS (Serverless-first)",
-  engineeringGoal: "Designing secure, scalable, and resilient systems",
-  activeLearning: [
-    "GraphQL APIs",
-    "Web3 Infrastructure",
-    "AI / LLM Integration"
-  ]
+  platform: "AWS • Serverless",
+  mission: "Scalable, secure, production-grade systems",
+  learning: ["GraphQL", "Web3", "AI / LLM Integration"]
 };
 
 ```
