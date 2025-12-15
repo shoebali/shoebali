@@ -70,14 +70,16 @@ const currentFocus = {
   learning: ["GraphQL", "Web3", "AI/ML Integration"]
 }
 
+---
 
 ### 📊 GitHub Stats
 ![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebali&show_icons=true&theme=radical)
-
+---
 ### 📈 Skills
 - **Frontend:** React.js, Redux, Context API, HTML, CSS, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB, MySQL
 - **Tools:** SVN, Git, AWS, VS Code
-
+---
 ### 💼 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shoeb-ali-a68817173/)
+---
