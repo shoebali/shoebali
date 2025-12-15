@@ -4,37 +4,24 @@
 ---
 
 ## 🔥 SPECIALTIES
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <h3>🎨 FRONTEND MASTERY</h3>
-    <ul>
-      <li>React Specialist</li>
-      <li>Next.js Performance</li>
-      <li>TypeScript & Modern JS</li>
-      <li>UI/UX Optimization</li>
-    </ul>
-  </div>
-  
-  <div>
-    <h3>⚙️ BACKEND EXPERTISE</h3>
-    <ul>
-      <li>Python/Django</li>
-      <li>PHP/Laravel</li>
-      <li>Node.js/API Design</li>
-      <li>Microservices</li>
-    </ul>
-  </div>
-  
-  <div>
-    <h3>☁️ CLOUD & DEVOPS</h3>
-    <ul>
-      <li>AWS Certified</li>
-      <li>Docker & Containerization</li>
-      <li>CI/CD Pipelines</li>
-      <li>Serverless Architecture</li>
-    </ul>
-  </div>
-</div>
+
+### 🎨 FRONTEND MASTERY
+- React Specialist
+- Next.js Performance
+- TypeScript & Modern JS
+- UI/UX Optimization
+
+### ⚙️ BACKEND EXPERTISE
+- Python/Django
+- PHP/Laravel
+- Node.js/API Design
+- Microservices
+
+### ☁️ CLOUD & DEVOPS
+- AWS Certified
+- Docker & Containerization
+- CI/CD Pipelines
+- Serverless Architecture
 
 ---
 
@@ -69,8 +56,6 @@ const currentFocus = {
   goal: "Building Scalable Web Applications",
   learning: ["GraphQL", "Web3", "AI/ML Integration"]
 }
-
----
 
 ### 📊 GitHub Stats
 ![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebali&show_icons=true&theme=radical)
